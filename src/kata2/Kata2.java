@@ -39,10 +39,6 @@ public class Kata2 {
         }
         
         System.out.println("El numero que mas se repite es: " + number + "->" + maxOcurrence);
-        
-        
-        
-        
     }
 
     private static Integer getFrequency(int number, Map<Integer, Integer> histogram) {
